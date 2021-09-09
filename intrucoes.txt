@@ -1,0 +1,5 @@
+banco de dados com realm
+https://docs.mongodb.com/realm-legacy/docs/javascript/latest/
+yarn add realm
+
+
